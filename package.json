@@ -17,7 +17,7 @@
     "gulp-ng-annotate": "^1.1.0"
   },
   "devDependencies": {
-    "event-stream": "~3.1.0",
+    "event-stream": "~4.0.1",
     "gulp": "~3.9.0",
     "gulp-angular-filesort": "~0.1.0",
     "gulp-bower-files": "~0.1.11",
