@@ -39,7 +39,7 @@
     "gulp-rename": "~1.1.0",
     "gulp-replace-task": "~0.1.0",
     "gulp-sass": "^0.7.1",
-    "gulp-serve": "~0.1.1",
+    "gulp-serve": "~1.4.0",
     "gulp-uglify": "~0.2.1",
     "gulp-util": "~2.2.14",
     "jshint-stylish": "1.0.1",
